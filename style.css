@@ -1,0 +1,28 @@
+.jumbotron{
+    background-image: linear-gradient(135deg,#6e8efb,#a777e3);
+}
+
+.tech{
+    padding-top: 30px;
+    padding-bottom: 10px;
+}
+
+.faq-box {
+    background-color: #ffffff;
+    padding: 1rem 1.25rem;
+  }
+  .accordion-button {
+    background-color: #e6f0ff;
+    font-weight: 500;
+  }
+  .accordion-button:not(.collapsed) {
+    background-color: #d1e3ff;
+    box-shadow: none;
+  }
+  .accordion-body {
+    padding-left: 1rem;
+    padding-right: 1rem;
+  }
+  .accordion-item {
+    border: none;
+  }
